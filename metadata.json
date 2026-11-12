@@ -1,0 +1,6 @@
+{
+  "name": "P.Elite Luxe Collection",
+  "description": "Curating luxury for her. Premium Ghanaian boutique featuring ladies night wear, panties, slippers, and bags in Sunyani, Ghana with nationwide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
